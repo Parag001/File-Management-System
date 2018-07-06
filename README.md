@@ -1,7 +1,9 @@
 # Java Based File Management System:
 
+![](Screenshot.png)
+
 ### Overview:-
-*I have coded these java file management when i was doing internship.It is the menu driven file management system.*
+*I have coded these java file management when I was doing the internship.It is the menu driven file management system.*
 
 
 ### Compilation:-
